@@ -1,0 +1,11 @@
+*/* (通用选择器) */{
+	margin: 0;/* body-8px */
+	text-decoration: none;
+	padding: 0;
+	list-style: none;
+	box-sizing:border-box;/* （解析到最外层padding） */
+}
+img{
+	border: 0;
+	display: block;
+}
